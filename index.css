@@ -1,0 +1,36 @@
+body{
+    user-select: none;
+}
+
+.JS_CAL_CONTAINER{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: 10rem;
+}
+
+.js_calculator{
+    height: 35vh;
+    width: 20vw;
+}
+
+td{
+    width: -20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border: 1px solid #000;
+    box-shadow: 0 0 10px gray;
+}
+
+td:hover{
+    opacity: 0.8;
+}
+
+#display {
+    width: 19%;
+    height: 30px;
+}
