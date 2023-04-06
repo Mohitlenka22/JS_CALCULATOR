@@ -34,7 +34,7 @@ td:hover {
 }
 
 #display {
-    width: 93%;
+    width: 200px;
     height: 40px;
     border-radius: 8px;
     outline: none;
