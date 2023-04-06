@@ -30,3 +30,9 @@ for (let item of td) {
     }
 }
 
+// let z = Math;
+// console.log(z);
+// console.log(Infinity)
+// console.log(z.sin(Math.PI/2))
+// console.log(z.cos(Math.PI/2))
+// console.log(z.tan(Math.PI/2))
